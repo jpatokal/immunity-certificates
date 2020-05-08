@@ -17,6 +17,10 @@ What policy makers need to know about COVID-19 protective immunity: https://www.
 
 * "The best estimate comes from the closely related coronaviruses and suggests that, in people who had an antibody response, immunity might wane, but is detectable beyond 1 year after hospitalisation." https://wwwnc.cdc.gov/eid/article/11/3/04-0906_article
 
+### Does the virus mutate slowly enough for immunity to be effective against all strains?
+
+* "There is one, and only one strain of SARS-CoV-2": https://www.virology.ws/2020/05/07/there-is-one-and-only-one-strain-of-sars-cov-2/
+
 ### Are current antibody (serology) tests reliable?
 
 * No: https://www.nature.com/articles/d41586-020-01115-z

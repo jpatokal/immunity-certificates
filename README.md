@@ -46,6 +46,7 @@ https://www.nytimes.com/2020/04/12/opinion/coronavirus-immunity-passports.html
 ### Commercial
 
 * Bizagi: [CoronaPass](https://www.coronapass.org/) - Centralized, Cloud-hosted, closed-source solution
+* Onfido https://www.msn.com/en-in/news/other/the-us-government-is-in-talks-with-uk-ai-startup-onfido-to-roll-out-immunity-passports-for-people-who-recover-from-covid-19/ar-BB12EJhw
 
 ## Countries
 

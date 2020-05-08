@@ -8,6 +8,7 @@ What policy makers need to know about COVID-19 protective immunity: https://www.
 
 ### Do recovered patients have protective immunity?
 
+* "Study Finds Nearly Everyone Who Recovers From COVID-19 Makes Coronavirus Antibodies": https://www.ncbi.nlm.nih.gov/pubmed/32350462
 * "Studies of COVID-19 show that 10–20% of symptomatically infected people have little or no detectable antibody": https://doi.org/10.1101/2020.03.24.20042382
 * "A study of survivors of SARS showed that about 90% had functional, virus-neutralising antibodies and around 50% had strong T-lymphocyte responses": https://www.jimmunol.org/content/181/8/5490
 * "South Korea's central clinical committee for emerging disease control said there was no live virus present in all 277 recovered but tested-positive cases, positively refuting theories like the virus being reactivated or reinfection": https://m-en.yna.co.kr/view/AEN20200429007051320

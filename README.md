@@ -16,6 +16,7 @@ What policy makers need to know about COVID-19 protective immunity: https://www.
 ### How long does immunity last?
 
 * "The best estimate comes from the closely related coronaviruses and suggests that, in people who had an antibody response, immunity might wane, but is detectable beyond 1 year after hospitalisation." https://wwwnc.cdc.gov/eid/article/11/3/04-0906_article
+* "...after three months only 16.7 per cent had maintained high levels of COVID-19-neutralising antibodies, and after 90 days several patients had no detectable antibodies in their bloodstream." https://www.channelnewsasia.com/news/world/covid-19-coronavirus-immunity-disappear-within-months-study-12928108
 
 ### Does the virus mutate slowly enough for immunity to be effective against all strains?
 
